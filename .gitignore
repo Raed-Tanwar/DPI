@@ -1,0 +1,18 @@
+# Compiled class files
+*.class
+bin/
+target/
+
+# Generated PCAP files (except source test_dpi.pcap)
+*.pcap
+!test_dpi.pcap
+
+# Cloned C++ reference directory
+Packet_analyzer_cpp/
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
