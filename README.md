@@ -1,4 +1,4 @@
-# DPI Engine - Java Implementation (v2.0 Parity)
+# DPI Engine 
 
 A **Deep Packet Inspection (DPI) Engine** written in Java for analyzing, classifying, and filtering network traffic. It reads PCAP files, identifies application protocols (YouTube, Facebook, DNS, etc.), applies sticky flow-level blocking rules (by IP, application, or domain), and writes filtered PCAP files containing forwarded traffic.
 
